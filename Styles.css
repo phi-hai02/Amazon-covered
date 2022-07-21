@@ -1,0 +1,13 @@
+html {
+    @media(min-width: 360px) and (max-width: 3600px) {}
+}
+
+body {
+    border="1px solid black";
+}
+
+#container-index {
+    width="3000px";
+    height="10000px";
+    background-color: rbg(2,12,123)
+}
